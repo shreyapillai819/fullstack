@@ -59,7 +59,7 @@ SmartAssist can be effortlessly embedded into e-commerce websites, SaaS products
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shreyapillai819/fullstack.git
+   git clone https://github.com/shreyapillai819/smart-assist.git
    ```
 
 2. Move to the backend folder and install dependencies:
